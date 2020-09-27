@@ -6,9 +6,9 @@ Hibernate + JEE + JPA + MYSQL + JSP + JSTL
 
 2. The following software programs and technologies are used (You can find detailed versions used in pom.xml):
 JDK 8
-Eclipse Neon (4.6.0)
+Eclipse IDE
 Hibernate ORM 5.2.6.Final
-MySQL Server Community Edition 5.5
+MySQL Server Community Edition 6.0.5
 MySQL Connector J - JDBC driver library for MySQL
 
 3. I've attached project structure image(Project Structure JPA.PNG)
